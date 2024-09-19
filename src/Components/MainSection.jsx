@@ -14,7 +14,7 @@ export default function MainSection() {
 
                         <a href="#" title="" className="inline-flex rounded focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-900">
 
-                            <img className="relative top-2 w-11/12" src="./img/NobleStitch-removebg-preview.png" alt="" />
+                            <img className="relative top-2 w-11/12" src="../img/NobleStitch-removebg-preview.png" alt="" />
 
                         </a>
 
@@ -55,7 +55,7 @@ export default function MainSection() {
         <div className="  absolute top-14 right-20 w-2/6 hidden lg:block ">
         {/* <img className="object-cover object-right w-full h-full" src="https://cdn.rareblocks.xyz/collection/clarity-ecommerce/images/hero/4/background.png" alt="" /> */}
 
-                <img className="h-full w-full" src="/img/manequinside.jpg" alt="" />
+                <img className="h-full w-full" src="../img/manequinside.jpg" alt="" />
 
         </div>
         <div className=" absolute   top-24 left-2/4 w-1/6 hidden lg:block ">
