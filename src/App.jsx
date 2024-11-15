@@ -3,7 +3,6 @@ import SecondSection from "./Components/SecondSection";
 import ThirdSection from "./Components/ThirdSection";
 import FourthSection from "./Components/FourthSection"
 import ZigZagSection from "./Components/ZigZagSection"
-// import FifthSection from "./Components/FifthSection"
 import Footer from "./Components/Footer"
 import LastSection from "./Components/LastSection"
 import { useState, useEffect } from "react";  // Added useEffect import here
