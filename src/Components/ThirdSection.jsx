@@ -49,8 +49,7 @@ export default function ThirdSection() {
                     <a href="#" title="" className="text-base font-normal text-gray-400 transition-all duration-200 hover:text-white"> Support </a>
                 </div>
             </nav> */}
-        {/* </div>
-    </header> */}
+       
 
     <section className=" bg-green-950 h-screen w-screen flex justify-center items-center sm:pb-16 ">
         <div className=" max-h-full w-full flex justify-evenly items-center  sm:px-6  max-w-7xl ">
