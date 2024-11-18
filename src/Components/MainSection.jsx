@@ -56,7 +56,7 @@ export default function MainSection() {
         <div className="  absolute top-14 right-20 w-2/6 hidden lg:block ">
         {/* <img className="object-cover object-right w-full h-full" src="https://cdn.rareblocks.xyz/collection/clarity-ecommerce/images/hero/4/background.png" alt="" /> */}
 
-                <img className="h-full w-full" src="../img/manequinside.jpg" alt="" />
+                <img className="h-full w-full" src="/src/Components/khass/Board.jpg" alt="img not found" />
 
         </div>
         <div className=" absolute   top-24 left-2/4 w-1/6 hidden lg:block ">
