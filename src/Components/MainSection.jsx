@@ -53,18 +53,20 @@ export default function MainSection() {
     </header>
 {/* section */}
     <div className=" bg-green-950 h-screen relative  pt-12 sm:pt-16 lg:py-36 xl:py-48">
-        <div className="  absolute top-14 right-20 w-2/6 hidden lg:block ">
+        <div className="  absolute top-20 right-36 w-2/6 hidden lg:block ">
         {/* <img className="object-cover object-right w-full h-full" src="https://cdn.rareblocks.xyz/collection/clarity-ecommerce/images/hero/4/background.png" alt="" /> */}
 
-                <img className="h-full w-full" src="/src/Components/khass/Board.jpg" alt="img not found" />
+                <img className="h-full w-full" src="/src/Components/Khass/winter discount.jpg" alt="img not found" />
 
         </div>
-        <div className=" absolute   top-24 left-2/4 w-1/6 hidden lg:block ">
+        {/* <div className=" absolute  h-96  top-24 left-2/4 w-80 hidden lg:block "> */}
         {/* <img className="object-cover object-right w-full h-full" src="https://cdn.rareblocks.xyz/collection/clarity-ecommerce/images/hero/4/background.png" alt="" /> */}
-        <img className="h-full w-full" src="/img/sardarmanequincut.jpg" alt="" />
+
+        {/* thale vali use krni aa img */}
+        {/* <img className="h-full w-full" src="/src/Components/Khass/board.jpg" alt="" />
 
 
-        </div>
+        </div> */}
 
         <div className="  w-auto absolute inset-x-96 top-0 hidden lg:block">
             <div className="w-full  flex justify-center  py-5 ">
