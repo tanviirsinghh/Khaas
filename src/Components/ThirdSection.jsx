@@ -65,19 +65,9 @@ export default function ThirdSection() {
                     </div>
 
                     <div>
-                        {/* <div className="inline-flex items-center pt-6 mt-8 border-t border-gray-800 sm:pt-10 sm:mt-14"> */}
-                            {/* <svg className="w-6 h-6" viewBox="0 0 24 24" fill="none" stroke-width="1.5" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M13 7.00003H21M21 7.00003V15M21 7.00003L13 15L9 11L3 17" stroke="url(#a)" stroke-linecap="round" stroke-linejoin="round" />
-                                <defs>
-                                    <linearGradient id="a" x1="3" y1="7.00003" x2="22.2956" y2="12.0274" gradientUnits="userSpaceOnUse">
-                                        <stop offset="0%" style="stop-color: var(--color-cyan-500)" />
-                                        <stop offset="100%" style="stop-color: var(--color-purple-500)" />
-                                    </linearGradient>
-                                </defs>
-                            </svg> */}
+                       
 
-                            {/* <span className="ml-2 text-base font-normal text-white"> 42 new design inspiration was added last week </span>
-                        </div> */}
+                           
                     </div>
                 </div>
 
