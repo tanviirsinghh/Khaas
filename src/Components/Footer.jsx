@@ -6,7 +6,7 @@ export default function Footer() {
         <img className="h-14" src="/img/fl.svg" alt="" />
       
       <p className="font-bold text-peela font-custom text-lg">
-        NOBLRSTITCH ATLELIER
+        KHASS
         <br />
         Known for meticulous attention to detail and impeccable craftsmanship.
       </p>
@@ -14,7 +14,7 @@ export default function Footer() {
     </aside>
     <nav>
       <div className="grid grid-flow-col gap-4 ">
-        <a href="https://www.instagram.com/noblestitchatelier/">
+        <a href="https://www.instagram.com/khaasbypunjabfabrics/profilecard/?igsh=MWw1OGI4Znp0Mnlzbw==">
           {/* <svg
             xmlns="/img/2_1159x822.webp"
             width="24"
@@ -26,12 +26,12 @@ export default function Footer() {
           </svg> */}
           <img className="h-8" src="/img/insta.svg" alt="" />
         </a>
-        <a href="https://www.facebook.com/amansinghvirk10/">
+        <a href="">
           
                     <img className="h-8" src="/img/fb.svg" alt="" />
 
         </a>
-        <a href="https://www.youtube.com/@aman_singhvirk" target="_blank" className="hover:cursor-auto">
+        <a href="" target="_blank" className="hover:cursor-auto">
          
      <img className="h-8" src="/img/youtube.svg" alt="" />
    

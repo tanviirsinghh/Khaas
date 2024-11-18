@@ -15,7 +15,7 @@ export default function MainSection() {
                         <a href="#" title="" className="inline-flex rounded focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-900">
 
                             {/* <img className="relative top-2 w-11/12" src="../img/NobleStitch-removebg-preview.png" alt="" /> */}
-                            <h3 className="h-14  w-22 text-peela font-custom"> Khass</h3>
+                            <h3 className="h-22  w-44 text-peela font-custom"> Khass</h3>
 
                         </a>
 
@@ -53,20 +53,20 @@ export default function MainSection() {
     </header>
 {/* section */}
     <div className=" bg-green-950 h-screen relative  pt-12 sm:pt-16 lg:py-36 xl:py-48">
-        <div className="  absolute top-20 right-36 w-2/6 hidden lg:block ">
+        <div className="  absolute top-20 right-24 w-2/6 hidden lg:block ">
         {/* <img className="object-cover object-right w-full h-full" src="https://cdn.rareblocks.xyz/collection/clarity-ecommerce/images/hero/4/background.png" alt="" /> */}
 
-                <img className="h-full w-full" src="/src/Components/Khass/winter discount.jpg" alt="img not found" />
+                <img className="h-full w-full" src="/src/Components/Khass/mai khass.jpg" alt="img not found" />
 
         </div>
-        {/* <div className=" absolute  h-96  top-24 left-2/4 w-80 hidden lg:block "> */}
+        <div className=" absolute  h-60  top-48 right-[34rem] w-74 hidden lg:block ">
         {/* <img className="object-cover object-right w-full h-full" src="https://cdn.rareblocks.xyz/collection/clarity-ecommerce/images/hero/4/background.png" alt="" /> */}
 
         {/* thale vali use krni aa img */}
-        {/* <img className="h-full w-full" src="/src/Components/Khass/board.jpg" alt="" />
+        <img className="h-full w-full" src="/src/Components/Khass/winter discount.jpg" alt="" />
 
 
-        </div> */}
+        </div>
 
         <div className="  w-auto absolute inset-x-96 top-0 hidden lg:block">
             <div className="w-full  flex justify-center  py-5 ">

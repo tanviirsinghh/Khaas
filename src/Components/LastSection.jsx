@@ -48,8 +48,8 @@ export default function LastSection() {
 
                 <div className="relative  px-4 pt-24 pb-16 text-center sm:px-6 md:px-24 2xl:px-32 lg:py-24 lg:text-left">
                     <h2 className="text-1xl font-custom font-semibold text-peela sm:text-6xl xl:text-6xl">
-                    The Visionary <br /> Behind the Brand  <br />
-                       <span className="text-7xl font-bold text-purple-950">AMAN SINGH <span className="">VIRK</span></span>
+                    The Visionary <br /> to design for you  <br />
+                       <span className="text-7xl font-bold text-purple-950">KHASS <span className=""></span></span>
                     
                     </h2>
                     <p className="mt-8 text-2xl text-peela font-custom">Dedicated to Crafting Bespoke Men&apos;s Wear</p>
@@ -70,7 +70,6 @@ export default function LastSection() {
                                         />
                                     </div>
                                 </div>
-
                                 <button type="submit" className="inline-flex items-center justify-center w-full px-8 py-4 mt-4 font-bold text-peela font-custom transition-all duration-200 bg-green-950 border border-transparent rounded-full sm:w-auto sm:ml-4 sm:mt-0 hover:bg-green-600 focus:bg-green-600">
                                     Book Appointment
                                 </button>
@@ -79,7 +78,6 @@ export default function LastSection() {
                     </form>
                     <p className="mt-5 text-base text-peela font-custom">A Lifetime of Experience in Tailoring</p>
                 </div>
-
                 <div className="absolute right-0 z-10 -bottom-16 lg:top-24 lg:-left-20">
                     {/* <img className="w-32 h-32 md:w-40 md:h-40" src="https://cdn.rareblocks.xyz/collection/celebration/images/hero/3/circular-text.png" alt="" /> */}
                 </div>
@@ -87,7 +85,7 @@ export default function LastSection() {
 
             <div className="relative w-full overflow-hidden lg:order-1 h-96 lg:h-auto lg:w-5/12">
                 <div className="absolute inset-24">
-                    <img className="object-cover w-full h-full scale-150" src="/img/ls.jpg" alt="" />
+                    <img className="object-cover w-full h-full scale-150" src="/src/Components/Khass/460329576_1244499949789152_1711087044365843511_n.jpg" alt="" />
                     {/* <img className=" absolute w-96 h-xl top-52 left-96 " src="/img/lastsmall.jpg" alt="" /> */}
 
                 </div>
@@ -98,7 +96,6 @@ export default function LastSection() {
                 {/* <div className="absolute bottom-0 left-0">
                     <div className="p-4 sm:p-6 lg:p-8">
                         <div className="flex items-center ">
-                            
                             <h2 className="font-bold text-violet-900 font-custom text-7xl ml-2.5">AMAN SINGH VIRK</h2>
                         </div>
                         <p className="max-w-xs mt-1.5 text-xl text-white">Professionals have organized their desk via PostCra</p>

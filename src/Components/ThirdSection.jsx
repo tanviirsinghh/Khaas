@@ -81,9 +81,9 @@ export default function ThirdSection() {
                     </div>
                 </div>
 
-                <div className="relative  w-3/5 h-full mt-0 md:absolute md:mt-0 md:top-0 lg:top-0 md:right-0">
-                    <img className="absolute max-w-lg  left-72s  -top-28 mx-auto " src="/src/Components/Khass/twoblazor.webp" alt="" />
-                    <img className="absolute max-w-xs right-2/4  top-6 mx-auto " src="/src/Components/Khass/brownblazor.webp" alt="" />
+                <div className="relative h-full w-screen mt-0 md:absolute md:mt-0 md:top-0 lg:top-0 md:right-0">
+                    <img className="absolute max-w-lg  right-9  -top-28 mx-auto " src="/src/Components/Khass/brownblazor.webp" alt="" />
+                    <img className="absolute max-w-xs right-96  top-6 mx-auto " src="/src/Components/Khass/twoblazor.webp" alt="" />
 
                 </div>
             </div>
