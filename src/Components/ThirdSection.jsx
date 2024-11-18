@@ -27,16 +27,7 @@ export default function ThirdSection() {
                     </button>
                 </div> */}
 
-                {/* <nav className="hidden md:flex md:items-center md:justify-end md:space-x-12">
-                    <a href="#" title="" className="text-base font-normal text-gray-400 transition-all duration-200 hover:text-white"> Products </a>
-
-                    <a href="#" title="" className="text-base font-normal text-gray-400 transition-all duration-200 hover:text-white"> Features </a>
-
-                    <a href="#" title="" className="text-base font-normal text-gray-400 transition-all duration-200 hover:text-white"> Pricing </a>
-
-                    <a href="#" title="" className="text-base font-normal text-gray-400 transition-all duration-200 hover:text-white"> Support </a>
-                </nav>
-            </div> */}
+             
 
           
        
