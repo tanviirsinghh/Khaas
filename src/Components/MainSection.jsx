@@ -14,7 +14,8 @@ export default function MainSection() {
 
                         <a href="#" title="" className="inline-flex rounded focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-900">
 
-                            <img className="relative top-2 w-11/12" src="../img/NobleStitch-removebg-preview.png" alt="" />
+                            {/* <img className="relative top-2 w-11/12" src="../img/NobleStitch-removebg-preview.png" alt="" /> */}
+                            <h3 className="h-14  w-22 text-peela font-custom"> Khass</h3>
 
                         </a>
 
