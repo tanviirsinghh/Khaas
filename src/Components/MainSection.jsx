@@ -1,10 +1,8 @@
 
 export default function MainSection() {
   return (
-    // <div className="">
 <section>
     <header>
-        {/* Header */}
         <div className="bg-green-950 h-full relative ">
             <div className="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
                 <div className=" relative  bg-green-950 flex items-center justify-between h-16 lg:h-[72px]">
