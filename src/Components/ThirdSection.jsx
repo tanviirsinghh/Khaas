@@ -38,17 +38,7 @@ export default function ThirdSection() {
                 </nav>
             </div> */}
 
-            {/* <nav x-show="expanded" x-collapse>
-                <div className="flex flex-col pt-8 pb-4 space-y-6">
-                    <a href="#" title="" className="text-base font-normal text-gray-400 transition-all duration-200 hover:text-white"> Products </a>
-
-                    <a href="#" title="" className="text-base font-normal text-gray-400 transition-all duration-200 hover:text-white"> Features </a>
-
-                    <a href="#" title="" className="text-base font-normal text-gray-400 transition-all duration-200 hover:text-white"> Pricing </a>
-
-                    <a href="#" title="" className="text-base font-normal text-gray-400 transition-all duration-200 hover:text-white"> Support </a>
-                </div>
-            </nav> */}
+          
        
 
     <section className=" bg-green-950 h-screen w-screen flex justify-center items-center sm:pb-16 ">
