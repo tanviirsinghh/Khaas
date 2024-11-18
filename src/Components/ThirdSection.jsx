@@ -3,13 +3,6 @@ export default function ThirdSection() {
   return (
 <div >
   
-             
-
-             
-
-          
-       
-
     <section className=" bg-green-950 h-screen w-screen flex justify-center items-center sm:pb-16 ">
         <div className=" max-h-full w-full flex justify-evenly items-center  sm:px-6  max-w-7xl ">
             <div className="  w-full relative">
