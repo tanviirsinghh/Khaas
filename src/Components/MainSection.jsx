@@ -122,12 +122,10 @@ yellow                            focus:ring-offset-[#FFE942]
                 </div>
             </div>
 
-            {/* <div className=" bg-grey-300 mt-8 lg:hidden">
-                <img className="w-full mx-auto" src="https://cdn.rareblocks.xyz/collection/clarity-ecommerce/images/hero/4/bg.png" alt="" />
-            </div> */}
+            
         </div>
     </div>
 </section>
-    // </div>
+  
   )
 }
