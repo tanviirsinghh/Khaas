@@ -2,15 +2,7 @@
 export default function ThirdSection() {
   return (
 <div >
-    {/* <header className="py-4 bg-black sm:py-6" >
-        <div className="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
-            <div className="flex items-center justify-between">
-                <div className="shrink-0">
-                    <a href="#" title="" className="flex">
-                        <img className="w-auto h-9" src="https://landingfoliocom.imgix.net/store/collection/dusk/images/logo.svg" alt="" />
-                    </a>
-                </div> */}
-
+  
              
 
              
