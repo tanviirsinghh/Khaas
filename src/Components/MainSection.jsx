@@ -8,12 +8,12 @@ export default function MainSection() {
                 <div className=" relative  bg-green-950 flex items-center justify-between h-16 lg:h-[72px]">
 
 
-                    <div className="relative w-2/12 flex items-center flex-shrink-0 ml-4 lg:ml-0">
+                    <div className="relative w-80 flex items-center flex-shrink-0 ml-4 lg:ml-0">
 
                         <a href="#" title="" className="inline-flex rounded focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-900">
 
                             {/* <img className="relative top-2 w-11/12" src="../img/NobleStitch-removebg-preview.png" alt="" /> */}
-                            <h3 className="h-22  w-44 text-peela font-custom"> Khass</h3>
+                            <h3 className="h-22  w-44 text-peela font-custom"> Khass - BY PUNJAB FABRICS</h3>
 
                         </a>
 

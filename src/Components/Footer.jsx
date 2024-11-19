@@ -16,11 +16,13 @@ export default function Footer() {
       <div className="grid grid-flow-col gap-4 ">
         <a href="https://www.instagram.com/khaasbypunjabfabrics/profilecard/?igsh=MWw1OGI4Znp0Mnlzbw==">
          
-          <img className="h-8" src="/img/insta.svg" alt="" />
+          <img className="h-8" src="/src/Components/Khass/insta.svg" alt="" />
+        
+
         </a>
         <a href="">
           
-                    <img className="h-8" src="/img/fb.svg" alt="" />
+                    <img className="h-8" src="/src/Components/Khass/fb.svg" alt="" />
 
         </a>
         <a href="" target="_blank" className="hover:cursor-auto">
