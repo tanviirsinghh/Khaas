@@ -64,14 +64,15 @@ export default function MainSection() {
 
 
 {/* Altering this image to check if the deployemnt versionis working or not */}
-                <img className="h-full w-full" src="src/Components/Khass/mai khass.jpg" alt="img not found" />
+                <img className="h-full w-full" src="public/Khass/mai khass.jpg" alt="img not found" />
+
 
         </div>
         <div className=" absolute  h-60  top-48 right-[34rem] w-74 hidden lg:block ">
         {/* <img className="object-cover object-right w-full h-full" src="https://cdn.rareblocks.xyz/collection/clarity-ecommerce/images/hero/4/background.png" alt="" /> */}
 
         {/* thale vali use krni aa img */}
-        <img className="h-full w-full" src="/src/Components/Khass/winter discount.jpg" alt="" />
+        <img className="h-full w-full" src="public/Khass/winter discount.jpg" alt="" />
 
 
         </div>
