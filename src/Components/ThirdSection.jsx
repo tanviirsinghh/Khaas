@@ -24,7 +24,7 @@ export default function ThirdSection() {
 
                 <div className="relative h-full w-screen mt-0 md:absolute md:mt-0 md:top-0 lg:top-0 md:right-0">
                     <img className="absolute max-w-lg  right-9  -top-28 mx-auto " src="../Khass/brownblazor.webp" alt="" />
-                    <img className="absolute max-w-xs right-96  top-6 mx-auto " src="../Khass/Khass/twoblazor.webp" alt="" />
+                    <img className="absolute max-w-xs right-96  top-6 mx-auto " src="../Khass/twoblazor.webp" alt="" />
 
                 </div>
             </div>
