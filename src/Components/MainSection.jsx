@@ -71,6 +71,14 @@ export default function MainSection() {
         <div className=" absolute  h-60  top-48 right-[34rem] w-74 hidden lg:block ">
         {/* <img className="object-cover object-right w-full h-full" src="https://cdn.rareblocks.xyz/collection/clarity-ecommerce/images/hero/4/background.png" alt="" /> */}
 
+
+{/* main section images working need to update the src of all the rest of the sections */}
+
+
+
+
+
+
         {/* thale vali use krni aa img */}
         <img className="h-full w-full" src="public/Khass/winter discount.jpg" alt="" />
 

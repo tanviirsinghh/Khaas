@@ -84,8 +84,8 @@ export default function FifthSection() {
                   </div>
   
                   <div className="relative  w-3/5 h-full mt-0 md:absolute md:mt-0 md:top-0 lg:top-0 md:right-0">
-                      <img className="absolute max-w-lg  left-52  -top-28 mx-auto " src="/img/fullmaharaja shervani.jpg" alt="" />
-                      <img className="absolute max-w-xs right-2/4  top-6 mx-auto " src="/img/maharajashervaniwithking.jpg" alt="" />
+                      <img className="absolute max-w-lg  left-52  -top-28 mx-auto " src="public/Khass/fullmaharaja shervani.jpg" alt="" />
+                      <img className="absolute max-w-xs right-2/4  top-6 mx-auto " src="public/Khass/maharajashervaniwithking.jpg" alt="" />
   
                   </div>
               </div>
