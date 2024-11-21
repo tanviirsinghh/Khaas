@@ -19,7 +19,7 @@ export default function ZigZagSection() {
             <div className="md:grid md:grid-cols-12 md:gap-6 items-center">
               {/* Image */}
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-5 lg:col-span-6 mb-8 md:mb-0 md:order-1" data-aos="fade-up">
-                <img className="max-w-full mx-auto md:max-w-none h-auto" src="/src/Components/Khass/Model.jpg" width={540} height={405} alt="Features 01" />
+                <img className="max-w-full mx-auto md:max-w-none h-auto" src="public/Khass/Model.jpg" width={540} height={405} alt="Features 01" />
               </div>
               {/* Content */}
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6" data-aos="fade-right">
@@ -55,7 +55,7 @@ export default function ZigZagSection() {
             <div className="md:grid md:grid-cols-12 md:gap-6 items-center">
               {/* Image */}
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-5 lg:col-span-6 mb-8 md:mb-0 rtl" data-aos="fade-up">
-                <img className="max-w-full mx-auto md:max-w-none h-auto" src="/src/Components/Khass/459324347_525637830061012_4248132534081293197_n.jpg" width={540} height={405} alt="Features 02" />
+                <img className="max-w-full mx-auto md:max-w-none h-auto" src="public/Khass/459324347_525637830061012_4248132534081293197_n.jpg" width={540} height={405} alt="Features 02" />
               </div>
               {/* Content */}
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6" data-aos="fade-left">
@@ -91,7 +91,7 @@ export default function ZigZagSection() {
             <div className="md:grid md:grid-cols-12 md:gap-6 items-center">
               {/* Image */}
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-5 lg:col-span-6 mb-8 md:mb-0 md:order-1" data-aos="fade-up">
-                <img className="max-w-full mx-auto md:max-w-none h-auto" src="/src/Components/Khass/460367170_1565894984013692_562212362003629983_n.jpg" width={540} height={405} alt="Features 03" />
+                <img className="max-w-full mx-auto md:max-w-none h-auto" src="public/Khass/460367170_1565894984013692_562212362003629983_n.jpg" width={540} height={405} alt="Features 03" />
               </div>
               {/* Content */}
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6" data-aos="fade-right">
