@@ -64,7 +64,7 @@ export default function MainSection() {
 
 
 {/* Altering this image to check if the deployemnt versionis working or not */}
-                <img className="h-full w-full" src="/Khass/mai khass.jpg" alt="img not found" />
+                <img className="h-full w-full" src="./Khass/mai khass.jpg" alt="img not found" />
 
 
         </div>
