@@ -161,7 +161,7 @@ export default function SecondSection() {
                     </div>
 
                     <div className="text-right ">
-                        <p className="flex justify-center items-center text-xs font-bold text-peela font-custom sm:text-sm md:text-base"><img className="w-4 h-4" src="/img/icons8-rupee-24.png" alt="" />7,900</p>
+                        <p className="flex justify-center items-center text-xs font-bold text-peela font-custom sm:text-sm md:text-base"><img className="w-4 h-4" src="public/Khass/icons8-rupee-24.png" alt="" />7,900</p>
                     </div>
                 </div>
             </div>
