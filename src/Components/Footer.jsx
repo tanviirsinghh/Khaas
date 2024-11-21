@@ -22,7 +22,7 @@ export default function Footer() {
         </a>
         <a href="">
           
-                    <img className="h-8" src="public/Khass/Components/Khass/fb.svg" alt="" />
+                    <img className="h-8" src="public/Khass/fb.svg" alt="" />
 
         </a>
         <a href="" target="_blank" className="hover:cursor-auto">
