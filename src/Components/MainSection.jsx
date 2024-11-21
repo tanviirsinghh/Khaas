@@ -80,7 +80,7 @@ export default function MainSection() {
 
 
         {/* thale vali use krni aa img */}
-        <img className="h-full w-full" src="public/Khass/winter discount.jpg" alt="" />
+        <img className="h-full w-full" src="../Khass/winter discount.jpg" alt="" />
 
 
         </div>
