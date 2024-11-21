@@ -49,7 +49,7 @@ export default function LastSection() {
 
             <div className="relative w-full overflow-hidden lg:order-1 h-96 lg:h-auto lg:w-5/12">
                 <div className="absolute inset-24">
-                    <img className="object-cover w-full h-full scale-150" src="public/Khass/460329576_1244499949789152_1711087044365843511_n.jpg" alt="" />
+                    <img className="object-cover w-full h-full scale-150" src="../Khass/460329576_1244499949789152_1711087044365843511_n.jpg" alt="" />
                     {/* <img className=" absolute w-96 h-xl top-52 left-96 " src="/img/lastsmall.jpg" alt="" /> */}
 
                 </div>
