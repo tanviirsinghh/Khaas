@@ -32,7 +32,7 @@ export default function SecondSection() {
                     </div>
 
                     <div className="text-right ">
-                        <p className="flex justify-center items-center text-xs font-bold text-peela font-custom sm:text-sm md:text-base"><img className="w-4 h-4" src="/img/icons8-rupee-24.png" alt="" />8,800</p>
+                        <p className="flex justify-center items-center text-xs font-bold text-peela font-custom sm:text-sm md:text-base"><img className="w-4 h-4" src="../khass/icons8-rupee-24.png" alt="" />8,800</p>
                     </div>
 
                     
@@ -74,7 +74,7 @@ export default function SecondSection() {
                     </div>
 
                     <div className="text-right ">
-                        <p className="flex justify-center items-center text-xs font-bold text-peela font-custom sm:text-sm md:text-base"><img className="w-4 h-4" src="/img/icons8-rupee-24.png" alt="" />6,700</p>
+                        <p className="flex justify-center items-center text-xs font-bold text-peela font-custom sm:text-sm md:text-base"><img className="w-4 h-4" src="../khass/img/icons8-rupee-24.png" alt="" />6,700</p>
                     </div>
 
                 
