@@ -19,7 +19,7 @@ export default function FourthSection() {
             <div className="flex flex-col h-full  p-3 mx-3 bg-green-950" data-aos="fade-up">
               {/* <div>
                 <div className="relative inline-flex flex-col mb-4"> */}
-                  <img className="h-full w-full" src="public/Khass/brown fabric.jpg" width={48} height={48} alt="Testimonial 01" />
+                  <img className="h-full w-full" src="../Khass/brown fabric.jpg" width={48} height={48} alt="Testimonial 01" />
                   <div className="h2 flex justify-center items-center text-lg font-bold text-peela font-custom">--- Fabric of your choice --- </div>
 
               
@@ -27,14 +27,14 @@ export default function FourthSection() {
 
             {/* 2nd testimonial */}
             <div className="flex flex-col h-full mx-3 p-3 bg-green-950" data-aos="fade-up" data-aos-delay="200">
-            <img className="h-full w-full" src="public/Khass/wall and hanger.jpg" width={48} height={48} alt="Testimonial 01" />
+            <img className="h-full w-full" src="../Khass/wall and hanger.jpg" width={48} height={48} alt="Testimonial 01" />
             <div className="h2 flex justify-center items-center text-lg font-bold text-peela font-custom">----  Design of your Heart ---- </div>
 
             </div>
 
             {/* 3rd testimonial */}
             <div className="flex flex-col h-full mx-3 p-3 bg-green-950" data-aos="fade-up" data-aos-delay="400">
-            <img className="h-full w-full" src="public/Khass/white fabric.jpg" width={48} height={48} alt="Testimonial 01" />
+            <img className="h-full w-full" src="../Khass/white fabric.jpg" width={48} height={48} alt="Testimonial 01" />
             <div className="h2 flex justify-center items-center text-lg font-bold text-peela font-custom">------  Our Magic ----- </div>
             </div>
 
