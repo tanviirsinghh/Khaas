@@ -15,7 +15,7 @@ export default function SecondSection() {
         <div className="grid grid-cols-2 gap-6 mt-10 lg:mt-16 lg:gap-4 lg:grid-cols-4">
             <div className="relative group">
                 <div className="overflow-hidden aspect-w-1 aspect-h-1">
-                    <img className="object-cover w-full h-80 transition-all duration-300 group-hover:scale-125" src="public/Khass/sample1.jpg" alt="" />
+                    <img className="object-cover w-full h-80 transition-all duration-300 group-hover:scale-125" src="../Khass/sample1.jpg" alt="" />
                 </div>
                 <div className="absolute left-3 top-3">
                     <p className="sm:px-3 sm:py-1.5 px-1.5 py-1 text-[8px] sm:text-xs font-bold tracking-wide text-peela font-custom uppercase bg-green-950 rounded-full">New</p>
@@ -41,7 +41,7 @@ export default function SecondSection() {
 
             <div className="relative group">
                 <div className="overflow-hidden aspect-w-1 aspect-h-1">
-                    <img className="object-cover w-full h-80 transition-all duration-300 group-hover:scale-125" src="public/Khass/sample2.jpg" alt="" />
+                    <img className="object-cover w-full h-80 transition-all duration-300 group-hover:scale-125" src="../Khass/sample2.jpg" alt="" />
                 </div>
                 <div className="absolute left-3 top-3">
                     <p className="sm:px-3 sm:py-1.5 px-1.5 py-1 text-[8px] sm:text-xs font-bold tracking-wide text-peela font-custom uppercase bg-green-950 rounded-full">New</p>
@@ -83,7 +83,7 @@ export default function SecondSection() {
 
             <div className="relative group">
                 <div className="overflow-hidden aspect-w-1 aspect-h-1">
-                    <img className="object-cover w-full h-80 transition-all duration-300 group-hover:scale-125" src="public/Khass/suave-modern-man-in-casual-style.webp" alt="" />
+                    <img className="object-cover w-full h-80 transition-all duration-300 group-hover:scale-125" src="../Khass/suave-modern-man-in-casual-style.webp" alt="" />
                 </div>
                 <div className="absolute left-3 top-3">
                     <p className="sm:px-3 sm:py-1.5 px-1.5 py-1 text-[8px] sm:text-xs font-bold tracking-wide text-peela font-custom uppercase bg-green-950 rounded-full">New</p>
@@ -128,7 +128,7 @@ export default function SecondSection() {
 
             <div className="relative group">
                 <div className="overflow-hidden aspect-w-1 aspect-h-1">
-                    <img className="object-cover w-full h-80 transition-all duration-300 group-hover:scale-125" src="public/Khass/suave-periwinkle-grooms-stylish-wedding-suit_802234-17532.webp" alt="" />
+                    <img className="object-cover w-full h-80 transition-all duration-300 group-hover:scale-125" src="../Khass/suave-periwinkle-grooms-stylish-wedding-suit_802234-17532.webp" alt="" />
                 </div>
                 <div className="absolute left-3 top-3">
                     <p className="sm:px-3 sm:py-1.5 px-1.5 py-1 text-[8px] sm:text-xs font-bold tracking-wide text-peela font-custom uppercase bg-green-950 rounded-full">New</p>
